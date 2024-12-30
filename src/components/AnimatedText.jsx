@@ -3,7 +3,7 @@ import { motion } from "framer-motion";
 const defaultAnimation = {
   hidden: {
     opacity: 0,
-    y: 20,
+    y: 2,
   },
   visible: {
     opacity: 1,
