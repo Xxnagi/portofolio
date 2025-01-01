@@ -16,7 +16,7 @@ const variants = {
     height: 40,
     top: "0px",
     right: "0px",
-    transition: { duration: 0.1, delay: 0.35, ease: [0.83, 0, 0.17, 1] },
+    transition: { duration: 0.75, delay: 0.35, ease: [0.83, 0, 0.17, 1] },
   },
 };
 
